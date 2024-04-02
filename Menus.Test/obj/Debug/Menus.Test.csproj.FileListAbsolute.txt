@@ -1,0 +1,14 @@
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Test\bin\Debug\Menus.Test.exe.config
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Test\bin\Debug\Menus.Test.exe
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Test\bin\Debug\Menus.Test.pdb
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Test\bin\Debug\Menus.Delegates.dll
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Test\bin\Debug\Menus.interfaces.dll
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Test\bin\Debug\Menus.Delegates.pdb
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Test\bin\Debug\Menus.Delegates.dll.config
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Test\bin\Debug\Menus.interfaces.pdb
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Test\bin\Debug\Menus.interfaces.dll.config
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Test\obj\Debug\Menus.Test.csproj.AssemblyReference.cache
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Test\obj\Debug\Menus.Test.csproj.CoreCompileInputs.cache
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Test\obj\Debug\Menus.Test.csproj.CopyComplete
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Test\obj\Debug\Menus.Test.exe
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Test\obj\Debug\Menus.Test.pdb

@@ -1,0 +1,7 @@
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Delegates\bin\Debug\Menus.Delegates.dll.config
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Delegates\bin\Debug\Menus.Delegates.dll
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Delegates\bin\Debug\Menus.Delegates.pdb
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Delegates\obj\Debug\Menus.Delegates.csproj.AssemblyReference.cache
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Delegates\obj\Debug\Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Delegates\obj\Debug\Menus.Delegates.dll
+C:\MyProjects\A24 Ex04 DanielZagoury 209380021 DvirZicherman  200695104\Menus.Delegates\obj\Debug\Menus.Delegates.pdb

@@ -1,0 +1,7 @@
+C:\MyProjects\Display-and-manage-hierarchical-menus-for-the-console-application\Menus.interfaces\bin\Debug\Menus.interfaces.dll.config
+C:\MyProjects\Display-and-manage-hierarchical-menus-for-the-console-application\Menus.interfaces\bin\Debug\Menus.interfaces.dll
+C:\MyProjects\Display-and-manage-hierarchical-menus-for-the-console-application\Menus.interfaces\bin\Debug\Menus.interfaces.pdb
+C:\MyProjects\Display-and-manage-hierarchical-menus-for-the-console-application\Menus.interfaces\obj\Debug\Menus.interfaces.csproj.AssemblyReference.cache
+C:\MyProjects\Display-and-manage-hierarchical-menus-for-the-console-application\Menus.interfaces\obj\Debug\Menus.interfaces.csproj.CoreCompileInputs.cache
+C:\MyProjects\Display-and-manage-hierarchical-menus-for-the-console-application\Menus.interfaces\obj\Debug\Menus.interfaces.dll
+C:\MyProjects\Display-and-manage-hierarchical-menus-for-the-console-application\Menus.interfaces\obj\Debug\Menus.interfaces.pdb
